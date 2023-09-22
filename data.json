@@ -1,0 +1,73 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://tse2.mm.bing.net/th?id=OIP.WoJ1IQF2bTZ1gL4u-Y5S_gHaLH&pid=Api&P=0&h=180",
+            "nama": "milkshake",
+            "size": "100 Gram",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://id.images.search.yahoo.com/images/view;_ylt=Awrx.9nAJQxlTXEGIjXNQwx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2E0OGI4NmYwZjBhOWZhNjBhOGNjODY1MGYyNDNlMWVjBGdwb3MDNwRpdANiaW5n?back=https%3A%2F%2Fid.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dmojito%26type%3DE210ID91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D7&w=2708&h=2708&imgurl=media.kaufland.com%2Fimages%2FPPIM%2FAP_Content_2708%2Fstd.lang.all%2F31%2F14%2FAsset_1593114.jpg&rurl=https%3A%2F%2Fwww.kaufland.de%2Frezepte%2Frezeptsuche%2Frezept.mojito-fresh.r_id%3DRecipe_1592822.html&size=465.7KB&p=mojito&oid=a48b86f0f0a9fa60a8cc8650f243e1ec&fr2=piv-web&fr=mcafee&tt=Mojito+Fresh+-+Rezept+%7C+Kaufland&b=0&ni=21&no=7&ts=&tab=organic&sigr=HVA28Z2czO9x&sigb=rEtMI7LUhvtK&sigi=ihlUkWtO7u4V&sigt=IkRWtXO9gpVa&.crumb=sTaS4ruQ0WQ&fr=mcafee&fr2=piv-web&type=E210ID91215G0",
+            "nama": "mojito",
+            "size": "100 Gram",
+            "harga": "240.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+    ],
+    "snack": [
+        {
+            "foto": "https://tse1.mm.bing.net/th?id=OIP.ZCWpA7Ka46YSjMJhP_iXQwHaJ4&pid=Api&P=0&h=180",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://laurenslatest.com/wp-content/uploads/2019/04/Belgian-Waffles-6.jpg",
+            "nama": "Waffle",
+            "size": "100 Gram",
+            "harga": "240.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+    ],
+}
